@@ -19,7 +19,7 @@ This project demonstrates fundamental CSS skills through the creation of a perso
 
 ## Live Demo
 
-Check out the live demo of the application here: [CSS Fundamentals - Netlify](https://your-netlify-link.netlify.app/). This live demo provides you with a real-time experience of how the application operates.
+Check out the live demo of the application here: [CSS Fundamentals - Netlify](https://css-fundamentals-one-jonas.netlify.app/). This live demo provides you with a real-time experience of how the application operates.
 
 ## Usage
 
